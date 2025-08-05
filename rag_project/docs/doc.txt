@@ -1,0 +1,5 @@
+"Machine learning is a subfield of artificial intelligence focused on building systems that learn from data.",
+"Retrieval-Augmented Generation uses external knowledge sources to improve the quality of generated responses.",
+"Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.",
+"CI/CD refers to Continuous Integration and Continuous Deployment, used to automate software delivery.",
+"Amazon Bedrock is a service that offers foundation models from various providers through an API."
